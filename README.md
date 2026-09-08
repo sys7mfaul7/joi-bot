@@ -1,8 +1,10 @@
 # Joi Discord Bot
 
-Unofficial companion bot. Public legal pages for the Discord Developer Portal live here.
+Unofficial companion bot. This public repo holds only the legal pages Discord needs.
 
 This project is **not** affiliated with Warner Bros., Alcon Entertainment, or the performers associated with the fictional character that inspired the bot’s name.
+
+Persona files and the rest of the lab live in a private repository.
 
 ## Policy links (paste these into Discord)
 
